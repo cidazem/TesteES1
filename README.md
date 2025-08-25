@@ -1,6 +1,5 @@
-# Documentação do PI
-
 <details>
+  <strong>DOCUMENTAÇÃO DA APLICAÇÃO WEB</strong>
   <summary><strong>📑 Sumário</strong></summary>
 
 - [Introdução](#introducao)
@@ -20,8 +19,6 @@
 - [Aplicação](#aplicacao)
 
 </details>
-
-Para cada semestre, do 1o ao 6o, iremos utilizar este template para documentar o PI - incrementalmente.
 
 <a id="introducao"></a>
 # Introdução
