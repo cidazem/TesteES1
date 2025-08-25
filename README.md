@@ -1,6 +1,7 @@
+<strong>DOCUMENTAÇÃO DA APLICAÇÃO WEB</strong>
+
 <details>
-  <strong>DOCUMENTAÇÃO DA APLICAÇÃO WEB</strong>
-  <summary><strong>📑 Sumário</strong></summary>
+    <summary><strong>📑 Sumário</strong></summary>
 
 - [Introdução](#introducao)
   - [Objetivos](#objetivos)
